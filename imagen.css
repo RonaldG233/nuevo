@@ -1,0 +1,44 @@
+.spidy{
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  height: 200px;
+  box-shadow: 5px 5px 10px #000000;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.texto{
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  height: 150px;
+  background: #ffffff;
+  box-shadow: 5px 5px 10px #000000;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  text-align: center;
+  color: red;
+  
+}
+.parrafo{
+  color: #000000;
+
+}
+.boton{
+  background: red;
+  height: 40px;
+  width: 80px;
+  color: azure;
+  border-radius: 6px;
+  place-content: center;
+  margin-bottom: 50px;
+}
+
+.goku{
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  height: 800px;
+  filter: drop-shadow(5px 5px 10px #ffe600);
+}
